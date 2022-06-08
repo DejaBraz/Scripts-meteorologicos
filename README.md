@@ -1,4 +1,4 @@
-# Scripts meteorologicos
+# Scripts meteorológicos
 
 Reuni diversos scripts de campos meteorológicos feitos por mim, colegas ou obtidos em cursos que já participei ❤️.
 
